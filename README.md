@@ -15,3 +15,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ### 2018年6月5日
 
 * Vue SSR 在 php 环境下的使用
+* 技术选型（Vue、React、Angular）
