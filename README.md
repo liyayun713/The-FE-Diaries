@@ -23,4 +23,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * 预处理器选型（stylus、less、sass）
 * 前端多语言解决方案
 * [DMP、DSP、SSP](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/DMP.md)
-* [埋点架构]()
+* [埋点架构](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/event-tracking.md)
