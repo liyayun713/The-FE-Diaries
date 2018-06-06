@@ -22,4 +22,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * ui 框架选型（element、cube）
 * 预处理器选型（stylus、less、sass）
 * 前端多语言解决方案
-* DMP、DSP、SSP
+* [DMP、DSP、SSP](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/DMP.md)
