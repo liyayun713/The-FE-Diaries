@@ -21,3 +21,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * 单页面 or 多页面
 * ui 框架选型（element、cube）
 * 预处理器选型（stylus、less、sass）
+* 前端多语言解决方案
