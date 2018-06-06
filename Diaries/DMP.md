@@ -9,3 +9,5 @@
 * DMP（Data Management Platform）是数据管理平台，负责数据汇集和按需要与DSP进行数据交换，下面看一个图：
 
 ![](https://pic1.zhimg.com/80/c1008fda4ca565e63298fd94667af122_hd.jpg)
+
+![](https://pic2.zhimg.com/80/cc977b22d4e8c6e64b828c9406dc4363_hd.jpg)
