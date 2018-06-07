@@ -26,4 +26,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * [埋点架构](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/event-tracking.md)
 
 ### 2018年06月07日
-* 前端国际化（i18n）
+* 前端国际化（i18n）(vue + vue-i18n + element-ui国际化)
