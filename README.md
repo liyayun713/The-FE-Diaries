@@ -38,3 +38,7 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 
 ### 2018年06月11日
 * DMP前端架构
+
+### 2018年06月12日
+* Vue + vue-router + vuex + element-ui + echarts + ES6/7/8
+
