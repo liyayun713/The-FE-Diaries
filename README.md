@@ -43,3 +43,5 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * Vue + vue-router + vuex + element-ui + echarts + ES6/7/8
 * 异步组件 require.ensure
 
+### 2018年06月13日
+* 前端埋点SDK包
