@@ -50,4 +50,4 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * IP v3 和 IP v4
 
 ### 2018年06月15日
-* [js常用设计模式]()
+* [js常用设计模式](https://github.com/liyayun713/Front-End/blob/master/js/DesignPatterns.md)
