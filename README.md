@@ -7,6 +7,7 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年06月19日
+* [this原理](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/this.md)
 * [Event Loop](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/Event-Loop.md)
 * [Nginx的安装与启动](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/Nginx.md)
 
