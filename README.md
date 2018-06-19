@@ -51,3 +51,6 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 
 ### 2018年06月15日
 * [js常用设计模式](https://github.com/liyayun713/Front-End/blob/master/js/DesignPatterns.md)
+
+### 2018年06月19日
+*
