@@ -125,7 +125,7 @@ http {
 }
 ```
 
-### 常用指令
+### 三、常用指令
 
 * start nginx            // 启动
 * nginx -s stop          // stop表示立即停止nginx,不保存相关信息
