@@ -7,7 +7,7 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 
-### 2018年06月19日
+### 2018年06月20日
 * [async await generator](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/async-await-generator.md)
 
 ### 2018年06月19日
