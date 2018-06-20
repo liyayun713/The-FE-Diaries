@@ -7,14 +7,15 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年06月20日
+* [Promise](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/promise.md)
 * [async await generator](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/async-await-generator.md)
 * [Babel：babel-polyfill, babel-preset-env, babel-runtime 以及 preset、plugin 的使用指南](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/babel.md)
 
 ### 2018年06月19日
-* [SSL/TLS 握手过程详解](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/SSL-TLS.md)
+* [SSL/TLS 握手过程详解](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/ssl-tls.md)
 * [this原理](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/this.md)
-* [Event Loop](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/Event-Loop.md)
-* [Nginx的安装与启动](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/Nginx.md)
+* [Event Loop](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/event-loop.md)
+* [Nginx的安装与启动](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/nginx.md)
 
 ### 2018年06月15日
 * [js常用设计模式](https://github.com/liyayun713/Front-End/blob/master/js/DesignPatterns.md)
@@ -37,7 +38,6 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * [埋点SDK包](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/sdk.js)
 
 ### 2018年06月08日
-* koa2框架学习
 * [项目上线流程](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/deploy.md)
 
 ### 2018年06月07日
@@ -48,7 +48,7 @@ new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 * ui 框架选型（element、cube）
 * 预处理器选型（stylus、less、sass）
 * 前端多语言解决方案
-* [DMP、DSP、SSP](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/DMP.md)
+* [DMP、DSP、SSP](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/dmp.md)
 * [埋点架构](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/event-tracking.md)
 
 ### 2018年06月05日
