@@ -6,6 +6,9 @@
 new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年06月21日
+* [Chrome 浏览器 Performance & 任务管理器性能分析}(https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/chrome-performance.md)
+
 ### 2018年06月20日
 * [Promise](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/promise.md)
 * [async await generator](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/async-await-generator.md)
