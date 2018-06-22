@@ -6,6 +6,14 @@
 new Date    // Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年06月22日
+* 数组深拷贝
+```js
+this.funnelInfo.step = [].concat(JSON.parse(JSON.stringify(this.stepList)))
+```
+* eslint
+* 路由子组件
+
 ### 2018年06月21日
 * [Chrome 浏览器 Performance & 任务管理器性能分析](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/chrome-performance.md)
 
