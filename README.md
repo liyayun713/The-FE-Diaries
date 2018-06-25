@@ -6,6 +6,18 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年06月25日
+* Math.pow(x, y) 函数返回基数（x）的指数（y）次幂
+
+
+* Math.round(x) 函数返回一个数字四舍五入后最接近的整数。
+```js
+Math.round(20.49)   // 20
+Math.round(20.5)   // 21
+Math.round(-20.5)   // -20
+Math.round(-20.51)   // -21
+```
+
 ### 2018年06月22日
 * CDN
 * Nginx反向代理跨域
