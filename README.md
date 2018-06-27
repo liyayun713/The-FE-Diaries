@@ -8,6 +8,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 
 ### 2018年06月26日
 * SVG 矢量图
+* vue-svg-icon 的坑（subNode -> node）
 
 ### 2018年06月25日
 * fetch 请求
