@@ -68,9 +68,9 @@
 
 ### redux
 
-1. 手写redux库(getState,createStore,dispatch,subscribe,applyMiddlewar e,combineReducer,compose,bindActionCreators)
+1. 手写redux库(getState, createStore, dispatch, subscribe, applyMiddleware, combineReducer, compose, bindActionCreators)
 
-### react­redux
+### react-redux
 
 1. 高阶组件的原理和使用
 
@@ -114,7 +114,7 @@
 
 8. 手写HashRouter Route等组件
 
-### React­Transition­group
+### React-Transition-group
 
 1. react动画的实现原理
 
