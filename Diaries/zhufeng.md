@@ -166,44 +166,72 @@
 ## Node 高级
 
 ### http深入和tcp详解
-1.七层网络协议分析
-2.TCP连接和Nagle算法
-3.使用`wireshark`学习七层网络协议
-4.DNS服务器详解
-5.Node静态服务器实现与缓存机制的实现
-6.HTTP常用报文的实际应用
-7.Node Stream的应用与文件分片上传策略
-8.RestfulAPI设计和使用
-9.CDN和OSS的使用
-10.HTTPS安全通信过程分析
+
+1. 七层网络协议分析
+
+2. TCP连接和Nagle算法
+
+3. 使用`wireshark`学习七层网络协议
+
+4. DNS服务器详解
+
+5. Node静态服务器实现与缓存机制的实现
+
+6. HTTP常用报文的实际应用
+
+7. Node Stream的应用与文件分片上传策略
+
+8. RestfulAPI设计和使用
+
+9. CDN和OSS的使用
+
+10. HTTPS安全通信过程分析
 
 ### Express
-1.手写express框架
-2.中间件的实现原理、bodyParser、cookie-parser、static、模板原理
+
+1. 手写express框架
+
+2. 中间件的实现原理、bodyParser、cookie-parser、static、模板原理
 
 ### Koa
-1.手写Koa框架
-2.中间件的实现原理、bodyParser、cookie-parser、static、模板原理
+
+1. 手写Koa框架
+
+2. 中间件的实现原理、bodyParser、cookie-parser、static、模板原理
 
 ### egg.js
-1.egg.js+antdesign开发前后端分离应用
+
+1. egg.js+antdesign开发前后端分离应用
 
 ### Linux
-1.Linux介绍
-2.Linux文件和目录
-3.Linux用户和组权限
-4.Linux命令
-5.Shell脚本
+
+1. Linux介绍
+
+2. Linux文件和目录
+
+3. Linux用户和组权限
+
+4. Linux命令
+
+5. Shell脚本
 
 ### Mongodb
-1.Mongodb安装和使用
-2.Mongodb的系统架构
-3.Mongodb高级查询
-4.Mongodb索引
-5.Mongodb安全与权限
-6.mongoose模块之Schema
-7.mongoose模块之Model
-8.使用Model对文档进行增删改查
+
+1. Mongodb安装和使用
+
+2. Mongodb的系统架构
+
+3. Mongodb高级查询
+
+4. Mongodb索引
+
+5. Mongodb安全与权限
+
+6. mongoose模块之Schema
+
+7. mongoose模块之Model
+
+8. 使用Model对文档进行增删改查
 
 ### 珠峰博客(express+mongodb+mongodb)
 
