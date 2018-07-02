@@ -6,8 +6,9 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
-### 2018年06月29日
+### 2018年07月02日
 * Flutter
+* 移动端适配
 
 ### 2018年06月28日
 * [珠峰前端架构师课程大纲](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/zhufeng.md)
