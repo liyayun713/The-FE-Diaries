@@ -7,6 +7,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年07月03日
+* style -> scoped属性
 * Vue全局过滤器
 * Electron  
 
