@@ -7,6 +7,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年07月03日
+* get 请求方式 params: data 进行传值
 * 跨域问题，浏览器会先发送options预请求，通过后才发送真正的post请求
 
 > 在跨域请求中，分为简单请求（get和部分post，post时content-type属于application/x-www-form-urlencoded，multipart/form-data，text/plain中的一种）和复杂请求。而复杂请求发出之前，就会出现一次options请求
