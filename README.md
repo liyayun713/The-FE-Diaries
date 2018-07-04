@@ -6,6 +6,9 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年07月04日
+* vue-router 动态路由导航（如果提供了 path，params 会被忽略）
+
 ### 2018年07月03日
 * Date.prototype.format
 * get 请求方式 params: data 进行传值
