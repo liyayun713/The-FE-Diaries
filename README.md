@@ -7,6 +7,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年07月04日
+* echarts 数据异步加载和更新
 * vue-router 动态路由切换与 element-ui 中的 menu 组件切换路由所遇到的坑
 * vue-router 动态路由导航（如果提供了 path，params 会被忽略）
 
