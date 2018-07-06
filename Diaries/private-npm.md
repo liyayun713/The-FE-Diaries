@@ -14,7 +14,7 @@
 
 * npm 官方提供  https://github.com/npm/npm-registry-couchapp
 
-*　verdaccio （sinopia fork） https://www.verdaccio.org/
+* verdaccio （sinopia fork） https://www.verdaccio.org/
 
 ＞　选择使用 verdaccio
 
