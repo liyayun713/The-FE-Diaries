@@ -16,7 +16,7 @@
 
 * verdaccio （sinopia fork） https://www.verdaccio.org/
 
-＞　选择使用 verdaccio
+> 选择使用 verdaccio
 
 ### npm 私服工具 verdaccio 安装配置使用
 
