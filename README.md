@@ -7,6 +7,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年07月06日
+* 项目色调、字体统一
 * [私有 NPM 搭建](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/private-npm.md)
 * [style scoped属性](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/scoped.md)
 
