@@ -6,8 +6,8 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
-### 2018年07月04日
-* style scoped属性
+### 2018年07月06日
+* [style scoped属性](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/scoped.md)
 
 ### 2018年07月04日
 * 打包导致样式丢失
