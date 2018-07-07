@@ -6,6 +6,10 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年07月07日
+* node_modules 中下划线开头的文件 cnpm安装
+* element-ui 需修改样式文件，单独提出到 lib 文件夹下
+
 ### 2018年07月06日
 * 项目色调、字体统一
 * [私有 NPM 搭建](https://github.com/liyayun713/The-FE-Diaries/blob/master/Diaries/private-npm.md)
