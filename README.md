@@ -6,6 +6,12 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年07月10日
+> package-lock.json 作用
+1. 安装之后锁定包的版本，手动更改package.json文件安装将不会更新包，想要更新只能使用 npm install xxx@1.0.0 --save 这种方式来进行版本更新package-lock.json 文件才可以
+
+2. 加快了npm install 的速度，因为 package-lock.json 文件中已经记录了整个 node_modules 文件夹的树状结构，甚至连模块的下载地址都记录了，再重新安装的时候只需要直接下载文件即可
+
 ### 2018年07月07日
 * node_modules 中下划线开头的文件 cnpm安装
 * element-ui 需修改样式文件，单独提出到 lib 文件夹下
