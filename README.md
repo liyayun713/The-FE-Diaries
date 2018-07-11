@@ -6,6 +6,9 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年07月11日
+* npm run build 打包过慢问题优化
+
 ### 2018年07月10日
 > package-lock.json 作用
 1. 安装之后锁定包的版本，手动更改package.json文件安装将不会更新包，想要更新只能使用 npm install xxx@1.0.0 --save 这种方式来进行版本更新package-lock.json 文件才可以
