@@ -6,6 +6,9 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年07月16日
+* from memory cache 和 from disk cache
+
 ### 2018年07月11日
 * git 和 svn 区别
 * npm run build 打包过慢问题优化
