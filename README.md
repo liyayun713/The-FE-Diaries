@@ -9,7 +9,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ### 2018年07月17日
 * webpack 打包优化
 * element-ui 按需加载
-* echarts 按需加载
+* echarts 按需加载、使用CDN并且defer加载
 
 ### 2018年07月16日
 * from memory cache 和 from disk cache
