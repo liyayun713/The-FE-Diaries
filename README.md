@@ -8,7 +8,7 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 
 ### 2018年07月17日
 * 性能优化（按需加载、cdn、defer、强缓存、协商缓存、压缩、gzip压缩）
-* webpack 打优化
+* webpack 打包优化
 * element-ui 按需加载
 * echarts 按需加载、使用CDN并且defer加载
 
