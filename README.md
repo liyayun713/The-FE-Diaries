@@ -7,7 +7,8 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
 ### 2018年07月23日
-* 状态码 302 Moved Temporarily / 302 Found
+* 在HTTP/1.0 302 状态为 Moved Temporarily
+* HTTP/1.1 302 状态为 Found
 
 ### 2018年07月18日
 * 百度推广用户追踪机制
