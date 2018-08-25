@@ -6,6 +6,9 @@
 new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 ```
 
+### 2018年08月25日
+* 阿里云部署项目
+
 ### 2018年07月23日
 * 在HTTP/1.0 302 状态为 Moved Temporarily
 * HTTP/1.1 302 状态为 Found
