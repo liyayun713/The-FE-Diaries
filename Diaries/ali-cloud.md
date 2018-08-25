@@ -73,5 +73,9 @@ rm -fr a.txt
 ### 使用 scp 命令
 
 ```
+// 使用 scp 上传代码到服务器
 scp -r local_dir user@ip:/remote_dir
+
+// 查看 nginx 进程
+ps -ef | grep nginx
 ```
