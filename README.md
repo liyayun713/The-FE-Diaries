@@ -8,6 +8,11 @@ new Date    // 开始时间 Mon Jun 04 2018 21:36:29 GMT+0800 (CST)
 
 # 每天两篇技术文章
 
+### 2018年11月20日
+* 支付宝小程序
+* docker
+* 进程和线程
+
 ### 2018年11月09日
 * defineProperty 和 proxy
 
