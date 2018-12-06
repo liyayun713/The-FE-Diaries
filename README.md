@@ -5,7 +5,7 @@
 - 掘金每天两篇文章~
 
 ### 2018年12月07日
-* 
+* [vue3.0 尝鲜 -- 摒弃 Object.defineProperty，基于 Proxy 的观察者机制探索](https://juejin.im/post/5bf3e632e51d452baa5f7375)
 
 ### 2018年11月20日
 * 支付宝小程序
