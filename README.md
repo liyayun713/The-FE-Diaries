@@ -5,6 +5,7 @@
 - 掘金每天两篇文章~
 
 ### 2018年12月8日
+* [深入理解 PWA](https://juejin.im/post/5c07493951882516cd70d213)
 * [微软官方：为开发者减少开发成本，Edge 将采用 Chromium 开发](https://juejin.im/post/5c09ecf9e51d4570b57ae0b4#comment)
 
 ### 2018年12月07日
