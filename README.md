@@ -6,6 +6,8 @@
 
 ### 2018年12月09日
 * [2019年如何打造自己的“前端品牌”](https://juejin.im/post/5c06a3b35188257f30199529)
+* [我是如何将页面加载时间从6S降到2S的？](https://juejin.im/post/5c07c6b96fb9a04a0d56a3cc#comment)
+* [初探 Vue3.0 中的一大亮点——Proxy !](https://juejin.im/post/5bfcbab0518825741e7bd67f#comment)
 
 ### 2018年12月8日
 * [深入理解 PWA](https://juejin.im/post/5c07493951882516cd70d213)
