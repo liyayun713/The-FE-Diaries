@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月11日
+* [年终回顾，为你汇总一份「前端技术清单」](https://juejin.im/post/5bdfb387e51d452c8e0aa902)
+* [打造属于你自己的instagram! 全栈项目(react + egg.js)](https://juejin.im/post/5c0256a751882550d05cba11#comment)
+
 ### 2018年12月10日
 * [不吹不黑比对下React与Vue的差异与优劣](https://juejin.im/post/5c0a92f2e51d455b3d3dc181)
 
