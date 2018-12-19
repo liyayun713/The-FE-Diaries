@@ -6,6 +6,7 @@
 
 ### 2018年12月19日
 
+* [前端埋点统计方案思考](https://juejin.im/post/5c178aaaf265da6147702108#comment)
 * [你（可能）不知道的web api](https://juejin.im/post/5c1606d9f265da613d7bf7a4)
 
 ### 2018年12月18日
