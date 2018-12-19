@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月19日
+
+* [你（可能）不知道的web api](https://juejin.im/post/5c1606d9f265da613d7bf7a4)
+
 ### 2018年12月18日
 
 * [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
