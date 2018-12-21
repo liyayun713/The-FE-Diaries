@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月21日
+
+* [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6#comment)
+
 ### 2018年12月19日
 
 * [Vue与React两个框架的粗略区别对比](https://juejin.im/post/5c18b4adf265da61380f26ad)
