@@ -4,6 +4,9 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月23日
+* [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
+
 ### 2018年12月21日
 
 * [一口(很长的)气了解 babel](https://juejin.im/post/5c19c5e0e51d4502a232c1c6#comment)
