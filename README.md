@@ -5,6 +5,8 @@
 - 掘金每天两篇文章~
 
 ### 2018年12月23日
+
+* [成熟的 Git 分支模型](https://juejin.im/post/5c1a4d1df265da6170071422)
 * [前端模块化详解(完整版)](https://juejin.im/post/5c17ad756fb9a049ff4e0a62)
 
 ### 2018年12月21日
