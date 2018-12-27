@@ -20,9 +20,9 @@ function mul(val) {
   }
   // toString or valueOf
   fn.toString = function () {
-    return num
+    return val
   }
-  return val
+  return fn
 }
 
 ```
