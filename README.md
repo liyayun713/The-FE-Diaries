@@ -6,6 +6,7 @@
 
 ### 2018年12月27日
 
+* [CommonJS和ES6模块循环加载处理的区别](https://juejin.im/post/5c22f5696fb9a049e412bce6)
 * [深入Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99#comment)
 * 面试题：请实现一个 mul 函数，使之满足：
 
