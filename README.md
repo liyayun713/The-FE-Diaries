@@ -4,6 +4,29 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月27日
+
+* [深入Babel，这一篇就够了](https://juejin.im/post/5c21b584e51d4548ac6f6c99#comment)
+* 面试题：请实现一个 mul 函数，使之满足：
+
+```js
+console.log(mul(2))
+console.log(mul(2)(3))
+
+// 关键点，使用 toString、valueOf
+function mul(val) {
+  let fn = function(num) {
+    return mul(val * num)
+  }
+  // toString or valueOf
+  fn.toString = function () {
+    return num
+  }
+  return val
+}
+
+```
+
 ### 2018年12月24日
 
 * 函数式编程与面向对象编程
