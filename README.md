@@ -6,7 +6,9 @@
 
 ### 2018年12月28日
 
+* [傻傻分不清的javascript运行机制](https://juejin.im/post/5c20526b6fb9a049b7805ff9)
 * [被闭包啪啪啪的打脸了](https://juejin.im/post/5c22f13b5188252b56273a00)
+* [面试官问：JS的this指向](https://juejin.im/post/5c0c87b35188252e8966c78a)
 
 ### 2018年12月27日
 
