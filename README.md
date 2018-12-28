@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月28日
+
+* [被闭包啪啪啪的打脸了](https://juejin.im/post/5c22f13b5188252b56273a00)
+
 ### 2018年12月27日
 
 * [CommonJS和ES6模块循环加载处理的区别](https://juejin.im/post/5c22f5696fb9a049e412bce6)
