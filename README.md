@@ -6,6 +6,7 @@
 
 ### 2018年12月28日
 
+* [刷 携程 地面业务 前端面试经历](https://juejin.im/post/5c237cf96fb9a049a62ca0c7)
 * [函数式编程，真香](https://juejin.im/post/5c19c3ffe51d45059b632eef)
 * [傻傻分不清的javascript运行机制](https://juejin.im/post/5c20526b6fb9a049b7805ff9)
 * [被闭包啪啪啪的打脸了](https://juejin.im/post/5c22f13b5188252b56273a00)
