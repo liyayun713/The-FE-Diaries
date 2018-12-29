@@ -4,6 +4,12 @@
 
 - 掘金每天两篇文章~
 
+### 2018年12月29日
+
+* [深入浅出HTTPS工作原理](https://juejin.im/post/5c1913a46fb9a049db73119a)
+* [前端之函数柯里化Currying](https://juejin.im/post/5c243574518825741e7c33ed)
+* [浅谈 class 私有变量](https://juejin.im/post/5c25faf3f265da61380f4b17)
+
 ### 2018年12月28日
 
 * [刷 携程 地面业务 前端面试经历](https://juejin.im/post/5c237cf96fb9a049a62ca0c7)
