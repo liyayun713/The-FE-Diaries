@@ -4,6 +4,11 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月02日
+
+* [webpack系列之一总览](https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a)
+* [webpack系列之二Tapable](https://juejin.im/post/5c25f920e51d45593b4bc719)
+
 ### 2018年12月29日
 
 * [深入浅出HTTPS工作原理](https://juejin.im/post/5c1913a46fb9a049db73119a)
