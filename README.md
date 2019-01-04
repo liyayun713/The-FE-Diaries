@@ -7,6 +7,7 @@
 ### 2019年01月04日
 
 * [深入浅出浏览器渲染原理](https://juejin.im/post/5c24d736f265da614b120d4a)
+* [《JavaScript设计模式与开发实践》](https://juejin.im/post/5c2e10a76fb9a049c0432697)
 
 ### 2019年01月02日
 
