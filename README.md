@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月04日
+
+* [深入浅出浏览器渲染原理](https://juejin.im/post/5c24d736f265da614b120d4a)
+
 ### 2019年01月02日
 
 * [webpack系列之一总览](https://juejin.im/post/5bf7c2186fb9a049fd0f7e8a)
