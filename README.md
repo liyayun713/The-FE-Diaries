@@ -4,6 +4,11 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月06日
+
+* [2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b)
+* [前端中的 IoC 理念](https://juejin.im/post/5c2c47dcf265da616d544a53)
+
 ### 2019年01月04日
 
 * [深入浅出浏览器渲染原理](https://juejin.im/post/5c24d736f265da614b120d4a)
