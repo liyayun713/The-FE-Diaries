@@ -6,6 +6,7 @@
 
 ### 2019年01月06日
 
+* [2018大厂高级前端面试题汇总](https://juejin.im/post/5bc92e9ce51d450e8e777136)
 * [近两万字小程序攻略发布了](https://juejin.im/post/5b8fd1416fb9a05cf3710690)
 * [2万5千字大厂面经 | 掘金技术征文](https://juejin.im/post/5ba34e54e51d450e5162789b)
 * [前端中的 IoC 理念](https://juejin.im/post/5c2c47dcf265da616d544a53)
