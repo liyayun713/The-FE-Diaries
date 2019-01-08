@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月08日
+
+* [使用node+puppeteer破解验证码](https://juejin.im/post/5c343f4ff265da611639f5bb#comment)
+
 ### 2019年01月06日
 
 * [2018大厂高级前端面试题汇总](https://juejin.im/post/5bc92e9ce51d450e8e777136)
