@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年1月9日
+
+* [大前端架构思考与选择](https://www.jianshu.com/p/bb8ac7db7e2d?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
 ### 2019年01月08日
 
 * [使用node+puppeteer破解验证码](https://juejin.im/post/5c343f4ff265da611639f5bb#comment)
