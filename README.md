@@ -6,6 +6,7 @@
 
 ### 2019年1月9日
 
+* [不可思议的纯 CSS 滚动进度条效果](https://juejin.im/post/5c35953ce51d45523f04b6d2)
 * [【面经】寒冬中的一年半前端跳槽](https://juejin.im/post/5c356f68f265da61483bca61)
 * [大前端架构思考与选择](https://www.jianshu.com/p/bb8ac7db7e2d?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
