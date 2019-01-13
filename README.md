@@ -4,6 +4,11 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月13日
+
+* [细说 async/await 相较于 Promise 的优势](https://juejin.im/post/5c39523651882525a67c53d6#comment)
+* [「前端面试题系列1」今日头条 面试题和思路解析](https://juejin.im/post/5c394da4518825253661bd4d)
+
 ### 2019年01月10日
 
 * [node服务端渲染(完整demo)](https://juejin.im/post/5c35cac5f265da61120534a5)
