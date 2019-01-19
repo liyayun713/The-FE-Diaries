@@ -4,6 +4,13 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月19日
+
+* [Vue页面骨架屏](https://segmentfault.com/a/1190000014963269?utm_source=channel-hottest)
+* [世界顶级公司的前端面试都问些什么](https://juejin.im/post/5c414bbe518825247c724268)
+* [让老板虎躯一震的前端技术，KPI杀手](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
+* [这应该是你见过的最全前端下载总结](https://juejin.im/post/5c3c4b3551882524a5420119#comment)
+
 ### 2019年01月13日
 
 * [细说 async/await 相较于 Promise 的优势](https://juejin.im/post/5c39523651882525a67c53d6#comment)
