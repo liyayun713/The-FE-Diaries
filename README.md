@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月20日
+
+* [为什么说GraphQL可以取代REST API？](https://mp.weixin.qq.com/s/X-jm7jLXWmMmLBVgHfkRiQ)
+
 ### 2019年01月19日
 
 * [Vue页面骨架屏](https://segmentfault.com/a/1190000014963269?utm_source=channel-hottest)
