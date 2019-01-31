@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年01月31日
+
+* [Polyfill 方案的过去、现在和未来](https://github.com/sorrycc/blog/issues/80)
+
 ### 2019年01月20日
 
 * [为什么说GraphQL可以取代REST API？](https://mp.weixin.qq.com/s/X-jm7jLXWmMmLBVgHfkRiQ)
