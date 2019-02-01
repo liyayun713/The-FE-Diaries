@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月01日
+
+* [常见六大Web安全攻防解析](https://juejin.im/post/5c446eb1e51d45517624f7db)
+
 ### 2019年01月31日
 
 * [Polyfill 方案的过去、现在和未来](https://github.com/sorrycc/blog/issues/80)
