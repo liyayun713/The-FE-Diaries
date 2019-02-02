@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月02日
+
+* [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804#comment)
+
 ### 2019年02月01日
 
 * [常见六大Web安全攻防解析](https://juejin.im/post/5c446eb1e51d45517624f7db)
