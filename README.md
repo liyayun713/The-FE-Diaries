@@ -6,6 +6,7 @@
 
 ### 2019年02月02日
 
+* [React16.6和Typescript高仿B站Web移动端](https://juejin.im/post/5c455f7ae51d4551e744aad9)
 * [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804#comment)
 * [[译]为什么要写 super(props)](https://juejin.im/post/5c53cb786fb9a049d2367ccd)
 
