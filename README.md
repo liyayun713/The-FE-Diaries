@@ -7,6 +7,7 @@
 ### 2019年02月02日
 
 * [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804#comment)
+* [[译]为什么要写 super(props)](https://juejin.im/post/5c53cb786fb9a049d2367ccd)
 
 ### 2019年02月01日
 
