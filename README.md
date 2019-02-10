@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月10日
+
+* [TypeScript 不适合在 vue 业务开发中使用吗？](https://www.zhihu.com/question/310485097/answer/591869966)
+
 ### 2019年02月02日
 
 * [React16.6和Typescript高仿B站Web移动端](https://juejin.im/post/5c455f7ae51d4551e744aad9)
