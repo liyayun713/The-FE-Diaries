@@ -4,6 +4,11 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月14日
+
+* [真-Node多线程](https://juejin.im/post/5c63b5676fb9a049ac79a798#comment)
+* [给2019前端的5个建议](https://juejin.im/post/5c617c576fb9a049e93d33a4)
+
 ### 2019年02月10日
 
 * [TypeScript 不适合在 vue 业务开发中使用吗？](https://www.zhihu.com/question/310485097/answer/591869966)
