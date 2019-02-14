@@ -6,6 +6,7 @@
 
 ### 2019年02月14日
 
+* [中高级前端大厂面试秘籍，为你保驾护航金三银四，直通大厂(上)](https://juejin.im/post/5c64d15d6fb9a049d37f9c20#comment)
 * [【译】Vue 3.0 对 Web 开发意味着什么？](https://juejin.im/post/5c5ae5b4e51d4501377b5bdf)
 * [真-Node多线程](https://juejin.im/post/5c63b5676fb9a049ac79a798#comment)
 * [给2019前端的5个建议](https://juejin.im/post/5c617c576fb9a049e93d33a4)
