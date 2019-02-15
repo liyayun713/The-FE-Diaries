@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月16日
+
+* [京东PLUS会员项目前端性能优化实践](https://mp.weixin.qq.com/s?__biz=MzUxMDYxNTgwMA==&mid=2247484283&idx=1&sn=d2892c4e78bf8a93d99e63995a2fb92b&chksm=f9010aecce7683fa362e31dcce3bb8f698412db88251c16b9f95efdb852ba8d05865ebc59045&token=1791461149&lang=zh_CN#rd)
+
 ### 2019年02月15日
 
 * [mpvue+小程序云开发，纯前端实现婚礼邀请函](https://juejin.im/post/5c341e1d6fb9a049f66c4876)
