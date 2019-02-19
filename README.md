@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月20日
+
+* [Vuex与Redux对比](https://blog.csdn.net/hyupeng1006/article/details/80755667)
+
 ### 2019年02月18日
 
 * [深入了解解析Https - 从了解到放弃](https://juejin.im/post/5c66cc1e6fb9a049c84ffd12)
