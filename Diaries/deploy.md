@@ -19,6 +19,8 @@ cd /etc/nginx
 yum install vim
 vim nginx.conf
 // 修改成 user root;
+// root /root/www
+// 去掉 proxy_pass
 ```
 
 5. 上传代码到服务器
