@@ -27,7 +27,7 @@ vim nginx.conf
 ```
 // 使用scp
 // 当前文件夹下的所有文件上传
-scp -r ./* root@39.98.181.204:root/www
+scp -r ./* root@39.98.181.204:/root/www
 ```
 
 6. 重启Nginx服务器
