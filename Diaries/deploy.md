@@ -1,5 +1,41 @@
 # 项目上线流程
 
+1. 服务器购买配置
+2. 连接服务器 => ssh root@47.94.255.230
+3. web服务器，nginx -V 查看版本，没有的话安装
+
+```
+// 先安装 epel
+yum install epel-release
+// 安装 nginx
+yum install nginx
+```
+
+4. 配置web服务器
+
+```
+cd /etc/nginx
+// vim查看修改
+yum install vim
+vim nginx.conf
+// 修改成 user root;
+```
+
+5. 上传代码到服务器
+```
+// 使用scp
+// 当前文件夹下的所有文件上传
+scp -r ./* root@39.98.181.204:root/www
+```
+
+6. 重启Nginx服务器
+```
+// 查看nginx进程
+ps -ef | grep nginx
+// 停止
+nginx -s stop
+```
+
 ### 服务器购买以及配置
 * Linux、Centos
 * 端口
