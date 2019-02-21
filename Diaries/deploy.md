@@ -34,6 +34,9 @@ scp -r ./* root@39.98.181.204:root/www
 ps -ef | grep nginx
 // 停止
 nginx -s stop
+nginx
+// 查看 nginx.conf
+cat /etc/nginx/nginx.conf
 ```
 
 ### 服务器购买以及配置
