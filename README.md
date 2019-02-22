@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月22日
+
+* [NGINX配置多个项目]()
+
 ### 2019年02月20日
 
 * [Vuex与Redux对比](https://blog.csdn.net/hyupeng1006/article/details/80755667)
