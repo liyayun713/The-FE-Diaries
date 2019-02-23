@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月23日
+
+* [面试前如何准备才能提高成功率（含前端面试押题）](https://juejin.im/post/5c6d4789f265da2d8e70e164)
+
 ### 2019年02月22日
 
 * [NGINX配置多个项目](https://github.com/miracle90/The-FE-Diaries/blob/master/Diaries/NginxMultiProject.md)
