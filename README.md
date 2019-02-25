@@ -6,6 +6,10 @@
 
 ### 2019年02月25日
 
+* [微信开发相关（授权、分享）](https://github.com/miracle90/The-FE-Diaries/blob/master/Diaries/wechat.md)
+
+### 2019年02月25日
+
 * [【半月刊】前端高频面试题及答案汇总](https://juejin.im/post/5c6977e46fb9a049fd1063dc)
 
 ### 2019年02月23日
