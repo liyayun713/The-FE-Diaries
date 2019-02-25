@@ -4,6 +4,10 @@
 
 - 掘金每天两篇文章~
 
+### 2019年02月26日
+
+* [微信小程序和微信公众号有什么区别？](https://www.zhihu.com/question/53845035)
+
 ### 2019年02月25日
 
 * [nginx配置（多个项目，多个域名；多个项目一个域名，不同目录）](https://github.com/miracle90/The-FE-Diaries/blob/master/Diaries/NginxMultiProject.md)
