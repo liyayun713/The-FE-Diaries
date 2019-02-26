@@ -6,6 +6,7 @@
 
 ### 2019年02月26日
 
+* [从零搭建docker+jenkins+node.js自动化部署环境](https://juejin.im/post/5b8ddb70e51d45389153f288)
 * [微信小程序和微信公众号有什么区别？](https://www.zhihu.com/question/53845035)
 
 ### 2019年02月25日
