@@ -4,6 +4,7 @@
 
 ### 2019年12月31日
 
+* [scott-关于前端团队建设](https://juejin.im/post/5e0a06c96fb9a0165d74f81c#heading-17)
 * [简历模板 ==>《大厂面试》面试官看了直呼想要的简历](https://juejin.im/post/5e08b8826fb9a015fe5691e6#comment)
 
 ### 2019年10月12日
