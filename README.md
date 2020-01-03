@@ -7,6 +7,7 @@
 * 配置ssh key
 * 安装git/node/yarn => homebrew
 * vscode初始化配置
+* taro
 
 ### 2019年12月31日
 
