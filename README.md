@@ -5,6 +5,8 @@
 ### 2020年01月03日
 
 * 配置ssh key
+* 安装git/node/yarn => homebrew
+* vscode初始化配置
 
 ### 2019年12月31日
 
