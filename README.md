@@ -4,7 +4,7 @@
 
 ### 2020年03月27日
 
-* [adb配置安卓手机hosts]()
+* [adb配置安卓手机hosts](https://github.com/miracle90/The-FE-Diaries/blob/master/Diaries/adb.md)
 
 ### 2020年01月06日
 
