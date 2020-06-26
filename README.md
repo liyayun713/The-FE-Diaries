@@ -13,6 +13,11 @@
 * 学会游泳
 * 年底跑个马拉松？有点大胆
 
+### 2020年06月26日
+
+* 肾结石
+* 坚持早起打篮球100天（10天）
+
 ### 2020年06月25日
 
 * [痛风。。。](https://github.com/miracle90/Medicine/blob/master/docs/Gout.md)
