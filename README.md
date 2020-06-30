@@ -13,6 +13,10 @@
 * 学会游泳
 * 年底跑个马拉松？有点大胆
 
+### 2020年06月30日
+
+* 坚持早起打篮球100天（14天）
+
 ### 2020年06月29日
 
 * [投篮技巧](https://github.com/miracle90/The-FE-Diaries/blob/master/Diaries/shot-skills.md)
